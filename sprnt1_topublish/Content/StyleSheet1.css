@@ -1,0 +1,169 @@
+﻿<style type="text/css">
+        .style1
+        {
+            width: 57%;
+        }
+        #connec
+        {
+         //margin-left:50px;
+        // margin-top:auto;
+         margin-left:100px;
+        }
+        #btnsignup
+        {
+          margin-left:50px;
+          } 
+          #fbmap
+          {
+              margin-left:100px;
+          }
+          #Fname
+          {
+              border-radius: 4px;
+              height:30px;
+              margin-left:-10px;
+              font-size:large;
+              width:190px;
+              
+          }
+          #Sname
+          {
+              border-radius: 4px;
+              height:30px;
+              margin-left:10px;
+              font-size:large;
+              width:190px;
+              
+          }
+          #EmorMob
+          {
+              border-radius: 4px;
+              height:30px;
+              margin-left:-10px;
+              font-size:large;
+              width:400px;
+              
+          }
+          #EmorMob1
+          {
+              border-radius: 4px;
+              height:30px;
+              margin-left:-10px;
+              font-size:large;
+              width:400px;
+              
+          }
+           #txtpwd1
+          {
+              border-radius: 4px;
+              height:30px;
+              margin-left:-10px;
+              font-size:large;
+              width:400px;
+              
+          }
+          #bday
+          {
+              /*border-radius: 4px;
+              height:30px;*/
+              margin-top:auto;
+              margin-left:-10px;
+              font-size:large;
+              font-family:Calibri;
+             // width:400px;
+              
+          }
+          #RadioButton1
+          {
+              /*border-radius: 4px;
+              height:30px;*/
+              //margin-top:auto;
+             // margin-left:-10px;
+              font-size:large;
+              font-family:Calibri;
+             // width:400px;
+              
+          }
+          #RadioButton2
+          {
+              /*border-radius: 4px;
+              height:30px;*/
+              //margin-top:auto;
+              //margin-left:-10px;
+              font-size:large;
+              font-family:Calibri;
+             // width:400px;
+              
+          }
+           #DropDownList1
+          {
+              border-radius: 4px;
+              height:30px;
+              //margin-top:auto;
+              margin-left:-10px;
+              font-size:large;
+              font-family:Calibri;
+             width:70px;
+              
+          }
+          #DropDownList2
+          {
+              border-radius: 4px;
+              height:30px;
+              //margin-top:auto;
+              margin-left:0px;
+              font-size:large;
+              font-family:Calibri;
+             width:90px;
+              
+          }
+          #DropDownList3
+          {
+              border-radius: 4px;
+              height:30px;
+              //margin-top:auto;
+              margin-left:0px;
+              font-size:large;
+              font-family:Calibri;
+             width:90px;
+              
+          }
+           #whyDo
+          {
+             
+              //margin-top:auto;
+              margin-left:0px;
+              font-size:small;
+              font-family:Calibri;
+            // width:90px;
+              
+          }
+          #byclck
+          {
+              /*border-radius: 4px;
+              height:30px;*/
+              margin-top:auto;
+              margin-left:-10px;
+              font-size:x-small;
+              font-family:Calibri;
+             // width:400px;
+              
+          }
+          #Btnsignlst
+          {
+             border-radius: 8px;
+              background-color: #4CAF50;
+              height:50px;
+   // border: none;
+    color: white;
+   // padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+   // display: inline-block;
+    font-size: 16px;
+   // margin: 4px 2px;
+    cursor: pointer; 
+          }
+           
+        
+    </style>

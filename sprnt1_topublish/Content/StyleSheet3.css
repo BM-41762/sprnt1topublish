@@ -1,0 +1,59 @@
+﻿
+ body
+ {background:#D4D9E8;
+     }
+ .style1
+        {
+            width: 57%;
+            
+        }
+         #Btnsignlst
+          {
+             
+              background-color: #4CAF50;
+              height:30px;
+              width:100px;
+              margin-top:10px;
+ 
+    color: white;
+   
+    text-align: center;
+    
+    font-size: 1opx;
+
+    cursor: pointer; 
+          }
+          #div1{margin-top:10px;}
+          #hr1{border-color:Gray;}
+          #pre1
+          {background-color:White;
+              margin-top:100px;}
+              #LblLogin
+              {
+                  margin-left:-15px;
+                  margin-top:auto;}
+                  #Image1
+                  {margin-top:-30px;
+                      margin-left:110px;}
+                      #uname1
+                      {
+                          font-size:medium;color:Blue;margin-left:10px;margin-top:auto;}
+                          #Hlnk1
+                          {margin-top:10px;
+                      margin-left:150px;}
+                      #lblPswd
+              {
+                  margin-left:26px;
+                  margin-top:auto;}
+                  #pswd
+                      {
+                          margin-left:45px;margin-top:auto;}
+                  #btnlogin{background-color:Blue;color:White;margin-left:130px;}
+                  #Alnkforgot{margin-left:130px;}
+                 #divLast1{background-color:White;}
+                  #divLast2{background-color:White;}
+                   #divLast3{background-color:White;}
+                   #hr2{border-color:Gray;width:1000px;margin-left:2px;}
+                      
+                  
+        
